@@ -1,0 +1,3 @@
+# Requirements for Django exam prep quiz web app
+Django>=3.2
+requests
